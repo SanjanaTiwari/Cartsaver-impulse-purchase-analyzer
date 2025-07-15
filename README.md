@@ -1,10 +1,10 @@
-# 🛒 CartSaver – Impulse Purchase Pattern Analyzer
+#  CartSaver – Impulse Purchase Pattern Analyzer
 
 This project explores and visualizes **impulse purchase behavior** in online grocery stores. Using **Python (for EDA)** and **Power BI (for dashboarding)**, we uncover trends behind impulsive shopping based on time, category, gender, discounts, and more.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 | File Name                          | Description                                                  |
 |-----------------------------------|--------------------------------------------------------------|
@@ -16,7 +16,7 @@ This project explores and visualizes **impulse purchase behavior** in online gro
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To identify **patterns and trends in impulse purchases** and help online grocery businesses understand:
 - Who makes impulse purchases?
@@ -26,7 +26,7 @@ To identify **patterns and trends in impulse purchases** and help online grocery
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **Jupyter Notebook**
@@ -36,7 +36,7 @@ To identify **patterns and trends in impulse purchases** and help online grocery
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 Conducted in `CartSaver_EDA.ipynb`:
 - Checked for missing values and duplicates
@@ -49,7 +49,7 @@ Conducted in `CartSaver_EDA.ipynb`:
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
 The **Power BI dashboard** presents:
 - Pie chart: Impulse vs Non-Impulse purchases
@@ -59,7 +59,7 @@ The **Power BI dashboard** presents:
 - Slicers: Filter by `Is_Impulse`, `Product`, `Gender`, etc.
 
 
-## 📌 Key Insights
+##  Key Insights
 
 - Around **29%** of purchases were impulsive.
 - **Evening hours (6–9 PM)** showed higher impulse activity.
@@ -69,7 +69,7 @@ The **Power BI dashboard** presents:
 
 ---
 
-## 🚀 How to Use This Project
+##  How to Use This Project
 
 ### 1️⃣ Python EDA:
 - Open `cartsaverEDA.ipynb` in Jupyter Notebook.
@@ -81,7 +81,7 @@ The **Power BI dashboard** presents:
 
 ---
 
-## 📈 Possible Improvements
+##  Possible Improvements
 
 - Use machine learning to predict impulse purchase behavior.
 - Deploy the dashboard using Power BI Service or Streamlit.
@@ -89,7 +89,7 @@ The **Power BI dashboard** presents:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Sanjana Tiwari**  
 Aspiring Data Analyst | Python & BI Enthusiast  
